@@ -1,7 +1,7 @@
-import '../styles/globals.css'
+import '../style/tailwind.css'
 
-function MyApp({ Component, pageProps }) {
+function BlackHole({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
 
-export default MyApp
+export default BlackHole
