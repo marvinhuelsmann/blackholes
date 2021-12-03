@@ -90,14 +90,14 @@ export default function Home() {
             </main>
 
             <footer className={"mt-64"}>
-                <a target={"_blank"} className={"cursor-pointer"} href={"https://marvhuelsmann.com"}>
+                <a rel={"noreferrer"} target={"_blank"} className={"cursor-pointer"} href={"https://marvhuelsmann.com"}>
                 <div className={"flex justify-center"}>
                         <img className={"lg:w-1/12 md:w-1/6 w-1/4"} src={"https://i.imgur.com/j9XmjTS.png"}
                              alt={"Logo"}/>
                 </div>
                 </a>
                 <p className={"text-gray-500 text-center pb-10 text-md"}>
-                    <a className={"hover:text-gray-400"} href={"https://marvhuelsmann.com"} target={"_blank"}>Marvin Hülsmann</a> 2021 © Informations Website - Schwarze Löcher
+                    <a rel={"noreferrer"} className={"hover:text-gray-400"} href={"https://marvhuelsmann.com"} target={"_blank"}>Marvin Hülsmann</a> 2021 © Informations Website - Schwarze Löcher
                 </p>
             </footer>
         </div>
