@@ -91,7 +91,7 @@ export default function Home() {
 
             <footer className={"mt-64"}>
                 <div className={"flex justify-center"}>
-                    <img className={"w-1/12"} src={"https://i.imgur.com/j9XmjTS.png"} alt={"Logo"}/>
+                    <img className={"lg:w-1/12 md:w-1/6 w-1/4"} src={"https://i.imgur.com/j9XmjTS.png"} alt={"Logo"}/>
                 </div>
                 <p className={"text-gray-500 text-center pb-10 text-md"}>
                     Marvin Hülsmann 2021 © Informations Website - Schwarze Löcher
