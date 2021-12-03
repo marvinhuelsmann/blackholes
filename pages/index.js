@@ -31,7 +31,7 @@ export default function Home() {
             <Head>
                 <title>Schwarze Löcher</title>
                 <meta name="Dies dient als Informationsseite zu Schwatzen Löchern" content="Schwarze Löcher"/>
-                <link rel="icon" href="/favicon.ico"/>
+                <link rel="icon" href="https://camo.githubusercontent.com/56315e36a9e642d125b201fe8e2bb2cb59e939dfaf09e5f6e4c6ed252d40186f/68747470733a2f2f692e696d6775722e636f6d2f4c4a4a4e3763762e706e67"/>
             </Head>
 
             <main>
