@@ -97,7 +97,7 @@ export default function Home() {
                 </div>
                 </a>
                 <p className={"text-gray-500 text-center pb-10 text-md"}>
-                    <a rel={"noreferrer"} className={"hover:text-gray-400"} href={"https://marvhuelsmann.com"} target={"_blank"}>Marvin Hülsmann</a> 2021 © Informations Website - Schwarze Löcher
+                    <a rel={"noreferrer"} className={"hover:text-gray-400"} href={"https://marvhuelsmann.com"} target={"_blank"}>Marvin Hülsmann</a> 2022 © Informations Website - Schwarze Löcher
                 </p>
             </footer>
         </div>
